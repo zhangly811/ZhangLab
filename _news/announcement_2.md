@@ -1,32 +1,42 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Zhang Lab is hiring a post-doc and a research assitant!
+date: 2023-11-01 01:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+### Position Summary
+
+The Zhang Lab at Institute for Informatics, Data Science, and Biostatistics (I2DB) focuses on developing and applying innovative causal machine learning analytics to electronic health record (EHR) database to support clinical and regulatory decision-making. This position is an unparalleled opportunity for the right applicant to make an impact on the future of health care by building machine learning algorithms to unleash the potential of large-scale real-world patient data. The Data Scientist will take part in challenging projects such as 1) building unsupervised learning models to identify patient subpopulations for precision medicine, 2) developing time-series deep learning and Transformer-based models for disease risk prediction and individualized treatment effect estimation from longitudinal patient record data, and 3) developing federated learning algorithms for treatment effect estimation across multiple institutions. This role will also include collaboration with both internal and external clinical researchers to apply methods for generating real-world evidence from EHR and claims data. 
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+### Job Description
 
-#### Hipster list
+#### Primary Duties & Responsibilities
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+<li>Develop, implement and evaluate machine learning and deep learning models to assist the research team in addressing clinical questions.</li>
+<li>Write SQL queries to extract relevant data from large-scale databases.</li>
+<li>Preprocess data for model training, including imputing missing values, removing outliers, characterizing dataset, and any other relevant data wrangling. </li>
+<li>Search and review literature in medicine, computer science, and statistics for related research projects.</li>
+<li>Attend weekly lab meetings and meetings with the PI, the collaborators, and the students as needed.</li>
+<li>Performs other duties as assigned.</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+#### Required Qualifications
+<ul>
+<li>Equivalent of Master’s degree in computer science, statistics, biomedical informatics, biomedical engineering, or a related quantitative field with one or more years of related experience.</li>
+<li>Demonstrated experience working on projects related to deep learning, representation learning, federated learning, causal inference or other machine learning and artificial intelligence-related modeling.</li>
+<li>Experience with PyTorch, Tensorflow, R/Rstudio, and Linux command line. </li>
+<li>Knowledge on basic probability and statistical inference.</li>
+</ul>
 
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+#### Preferred Qualifications
+<ul>
+<li>Experience interacting with EHR and claims database.</li>
+<li>Knowledge on causal inference and its application in medicine.</li>
+<li>Healthcare-related research experience.</li> 
+<li>Effective verbal, written and interpersonal communication skills.</li>
+<li>Passion for improving clinical decision making and patient care through data-driven analytics. </li>
+</ul>
