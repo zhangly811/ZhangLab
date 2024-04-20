@@ -1,27 +1,38 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /team/
+title: team
+description: If you want to go fast, go alone; if you want to go far, go together.
 nav: true
-nav_order: 6
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: zhang_pic.png
-    content: about_einstein.md
+  - align: left
+    image: pic_zhangl.png
+    content: about_zhangl.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>linyingz@wustl.edu</p>
+
 
   - align: left
-    image: zhang_pic.png
-    content: about_einstein.md
+    image: pic_chenh.jpeg
+    content: about_chenh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    
+
+  - align: left
+    image: pic_fanr.jpg
+    content: about_fanr.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+
+  - align: left
+    image: pic_tbd.jpeg
+    content: about_tbd.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---

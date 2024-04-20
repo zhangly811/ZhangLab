@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zhang Lab is hiring a post-doc and a research assitant!
+title: causAI Lab is hiring a post-doc!
 date: 2023-11-01 01:11:00-0400
 inline: false
 related_posts: false
